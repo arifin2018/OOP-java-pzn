@@ -16,6 +16,9 @@ public class Main {
         manager.name = "Nur Arifin";
         manager.sayHello("MJ");
 
+        VicePresident VP = new VicePresident();
+        System.out.println(VP.trueFalse(false));
+
 
 
 
